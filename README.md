@@ -3,5 +3,5 @@
 2) Python Programming
 3) C++ Programming
 
-etc.
+Use the available resources carefully. Don't upload copyright materials.
 
